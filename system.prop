@@ -1,4 +1,5 @@
 # system.prop for apexqtmo
 #
 
+ro.sf.lcd_density=182
 rild.libargs=-d /dev/smd0
