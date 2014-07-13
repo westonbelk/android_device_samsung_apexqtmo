@@ -1,0 +1,2 @@
+add_lunch_combo aokp_apexqtmo-eng
+add_lunch_combo aokp_apexqtmo-userdebug
