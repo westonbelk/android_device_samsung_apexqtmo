@@ -9,7 +9,7 @@
         "remote": "github",
         "repository": "RevenRelay/android_device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "revision": "AOSPA"
+        "revision": "aospa"
     },
     {
         "remote": "github",
