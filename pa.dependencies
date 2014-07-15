@@ -51,6 +51,6 @@
         "remote": "github",
         "repository": "TheMuppets/proprietary_vendor_samsung",
         "target_path": "vendor/samsung",
-        "revision": "kitkat"
+        "revision": "cm-11.0"
     }
 ]
