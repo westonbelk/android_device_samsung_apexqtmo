@@ -28,4 +28,8 @@
     <bool name="config_wifiApFirmwareReload">false</bool>
 
     <integer name="config_keyboardBrightnessSettingDefault">1</integer>
+    
+    <!-- Set to true to add links to Cell Broadcast app from Settings and MMS app. -->
+    <bool name="config_cellBroadcastAppLinks">true</bool>
+    
 </resources>
