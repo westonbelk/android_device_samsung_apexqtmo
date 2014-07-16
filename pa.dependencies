@@ -9,7 +9,7 @@
         "remote": "github",
         "repository": "TeamRelay4g/android_device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "revision": "kitkat"
+        "revision": "aospa"
     },
     {
         "remote": "github",
