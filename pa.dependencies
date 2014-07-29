@@ -1,21 +1,21 @@
 [
     {
         "remote": "github",
-        "repository": "TeamRelay4g/android_device_samsung_msm8960-common",
+        "repository": "AOSPA-legacy/android_device_samsung_msm8960-common",
         "target_path": "device/samsung/msm8960-common",
-        "revision": "aospa"
+        "revision": "kitkat"
     },
     {
         "remote": "github",
-        "repository": "TeamRelay4g/android_device_samsung_qcom-common",
+        "repository": "AOSPA-legacy/android_device_samsung_qcom-common",
         "target_path": "device/samsung/qcom-common",
-        "revision": "aospa"
+        "revision": "cm-11.0"
     },
     {
         "remote": "github",
-        "repository": "TeamRelay4g/android_device_samsung_d2lte",
+        "repository": "AOSPA-legacy/android_device_samsung_d2lte",
         "target_path": "device/samsung/d2lte",
-        "revision": "aospa"
+        "revision": "kitkat"
     },
     {
         "remote": "github",
