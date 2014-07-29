@@ -6,10 +6,10 @@
         "revision": "kitkat"
     },
     {
-        "remote":       "cm",    
-        "repository":   "CyanogenMod/android_device_samsung_d2lte",
+        "remote":       "github",    
+        "repository":   "AOSPA-legacy/android_device_samsung_d2lte",
         "target_path":  "device/samsung/d2lte",
-        "revision":     "cm-11.0"
+        "revision":     "kitkat"
     },
     {
         "remote":       "cm",    
