@@ -62,7 +62,7 @@ PRODUCT_PACKAGES += \
 
 # APNs
 PRODUCT_COPY_FILES += \
-    device/samsung/apexqtmo/prebuilt/apns-conf.xml
+    device/samsung/apexqtmo/prebuilt/apns-conf.xml:system/etc/apns-conf.xml
 
 # d2-common
 $(call inherit-product, device/samsung/d2lte/d2-common.mk)
