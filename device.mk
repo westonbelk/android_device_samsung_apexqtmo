@@ -60,9 +60,5 @@ PRODUCT_PACKAGES += \
     WCNSS_qcom_cfg.ini \
     WCNSS_qcom_wlan_nv.bin_
 
-# APNs
-PRODUCT_COPY_FILES += \
-    device/samsung/apexqtmo/prebuilt/apns-conf.xml:system/etc/apns-conf.xml
-
 # d2-common
 $(call inherit-product, device/samsung/d2lte/d2-common.mk)
